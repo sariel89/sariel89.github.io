@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## My Stack Problems
 
 > This project forked and has been modified from [A simple grey theme for Jekyll](https://github.com/liamsymonds/simplygrey-jekyll),
@@ -70,3 +71,7 @@ image: Broadcast_Mail.png             # (custom) image only for meta `property="
 ### Contributing
 
 Feel free to [open a bug](https://github.com/agusmakmun/agusmakmun.github.io/issues) or [contribute to code](https://github.com/agusmakmun/agusmakmun.github.io/pulls)!
+=======
+# sariel89.github.io
+个人Blog
+>>>>>>> e5665d674ae4be8016932b16ffc7b394815d26fd
