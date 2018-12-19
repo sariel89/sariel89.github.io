@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 build.sh
 .DS_Store
+.MWebMetaData
